@@ -1,0 +1,4 @@
+beds
+chairs
+sofas
+tables
